@@ -895,4 +895,4 @@ In combination this makes for a language with great security, but also
 with great performance, as the compiler can make more assumptions during
 optimization.
 
-#bibliography("bib.bib", style: "ieee")
+#bibliography("bib/bib.bib", style: "ieee")
