@@ -1,5 +1,6 @@
 # Rust-Seminar
 
+A presentation and homework on Rust, specifically memory management and error handling. 
 
 ## Presentation 
 
